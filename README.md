@@ -3,6 +3,14 @@
 ********consultar GET
 
 localhost:3000/usuario/api/v1/all/interno
+localhost:3000/usuario/api/v1/all/externo
+
+********consultar GET /id
+
+externo
+localhost:3000/usuario/api/v1/detail/externo/6109ae28198b9e52d87f9ff9
+interno
+localhost:3000/usuario/api/v1/detail/interno/6109887b198b9e52d87f9fa7
 
 ***********Crear Post
 
