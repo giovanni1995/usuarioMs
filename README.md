@@ -41,7 +41,33 @@ localhost:3000/usuario/api/v1/create/externo
 "direccion":"27 y la t"
 }
 
+***********Actualizar Put
 
+**externo
+
+localhost:3000/usuario/api/v1/update/externo/6109ae28198b9e52d87f9ff9
+
+{
+"nombres":"Giovanni55",
+"usuario":"Guevara",
+"password":"123456",
+"celular":"0981618026",
+"email":"gio@gmail.com",
+"direccion":"27 y la t"
+}
+
+**interno
+
+localhost:3000/usuario/api/v1/update/interno/6109887b198b9e52d87f9fa7
+
+{
+"nombres":"Giovanni44",
+"usuario":"Guevara",
+"password":"123456",
+"rol":"admin",
+"emailEmpresarial":"gio@gmail.com",
+"departamento":"27 y la t"
+}
 
 
 
