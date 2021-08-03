@@ -69,5 +69,8 @@ localhost:3000/usuario/api/v1/update/interno/6109887b198b9e52d87f9fa7
 "departamento":"27 y la t"
 }
 
+*********eliminar delete
+
+localhost:3000/usuario/api/v1/delete/interno/6109b87f198b9e52d87f9ffb
 
 
