@@ -7,7 +7,9 @@ localhost:3000/usuario/api/v1/all/interno
 ***********Crear Post
 
 localhost:3000/usuario/api/v1/create/interno
+
 ------------------------------@Body
+
 {
 "nombres":"Giovanni4",
 "usuario":"Guevara",
@@ -17,8 +19,11 @@ localhost:3000/usuario/api/v1/create/interno
 "departamento":"27 y la t"
 }
 
+
 localhost:3000/usuario/api/v1/create/externo
+
 ------------------------------@Body
+
 {
 "nombres":"Giovanni55",
 "usuario":"Guevara",
