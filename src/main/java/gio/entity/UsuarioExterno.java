@@ -14,7 +14,7 @@ import lombok.RequiredArgsConstructor;
 public class UsuarioExterno{
 
 	@MongoId(value = FieldType.OBJECT_ID)
-	private String Id;
+	private String id;
 	@NonNull
 	private String nombres;
 	@NonNull
